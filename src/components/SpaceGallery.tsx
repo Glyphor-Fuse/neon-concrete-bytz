@@ -27,20 +27,7 @@ export const SpaceGallery = () => {
             className="md:col-span-2 md:row-span-2 relative group overflow-hidden bg-zinc-800"
           >
             <img 
-              src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/17607975/pexels-photo-17607975.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="A modern cafe facade with a wooden door and a window displaying 'Puff Coffee & Cake' in Suzhou, China."
-    width="5947"
-    height="3965"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/exterior-of-a-cafe-17607975/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Declan Sun on Pexels
-    </a>
-  </div>
-</div>" 
+              src="https://images.pexels.com/photos/17607975/pexels-photo-17607975.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
               alt="Interior Main"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-80 group-hover:opacity-100"
             />
@@ -58,20 +45,7 @@ export const SpaceGallery = () => {
             className="relative group overflow-hidden bg-zinc-800"
           >
             <img 
-              src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/5689498/pexels-photo-5689498.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
-    alt="Barista creates intricate latte art in a coffee cup using a red pitcher for a delicious presentation."
-    width="3512"
-    height="4917"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/latte-art-on-brown-coffee-foam-5689498/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Daniel Tello on Pexels
-    </a>
-  </div>
-</div>" 
+              src="https://images.pexels.com/photos/5689498/pexels-photo-5689498.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800" 
               alt="Pouring"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-80 group-hover:opacity-100"
             />
@@ -86,20 +60,7 @@ export const SpaceGallery = () => {
             className="relative group overflow-hidden bg-zinc-800"
           >
             <img 
-              src="<div className="relative">
-  <img 
-    src="https://images.pexels.com/photos/30669009/pexels-photo-30669009.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
-    alt="Close-up of coffee beans being roasted in an industrial machine with a hand scooping beans."
-    width="5805"
-    height="3870"
-    className="w-full h-full object-cover"
-  />
-  <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent p-2">
-    <a href="https://www.pexels.com/photo/coffee-beans-roasting-in-industrial-machine-30669009/" target="_blank" rel="noopener noreferrer" className="text-xs text-slate-400 hover:text-slate-300 transition-colors">
-      Photo by Vldsx . on Pexels
-    </a>
-  </div>
-</div>" 
+              src="https://images.pexels.com/photos/30669009/pexels-photo-30669009.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200" 
               alt="Roaster"
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-80 group-hover:opacity-100"
             />
